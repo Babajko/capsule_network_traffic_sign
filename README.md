@@ -12,12 +12,8 @@ Code for AI Ukraine 2018 workshop "Introduction to Capsule Networks"
 This dataset has more than 50,000 images of 43 classes.
 You can compare other models with other implementations.
 
-Pickled, prepared dataset you can find here: 
+Pickled, prepared dataset you can find here:  https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip (This scaled and pickled dataset was taken from the source: https://github.com/mohamedameen93/German-Traffic-Sign-Classification-Using-TensorFlow ,  you can find LeNet-5 and VGGNet models implementation for this dataset)
 
-Or here: https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip
-
-(This scaled and pickled dataset erre taken from the source:
-https://github.com/mohamedameen93/German-Traffic-Sign-Classification-Using-TensorFlow)
 
 
 
