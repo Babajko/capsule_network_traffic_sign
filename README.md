@@ -2,6 +2,9 @@
 
 Code for AI Ukraine 2018 workshop "Introduction to Capsule Networks"
 
+Please note! Source code for workshop can be changed up to Friday, 11 Oct.(freeze date).
+Clone the latest version please.
+
 1. To prepare for the workshop, please:
 
     - Download Python notebook.
