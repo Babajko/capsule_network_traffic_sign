@@ -4,9 +4,9 @@ Code for AI Ukraine 2018 workshop "Introduction to Capsule Networks"
 
 1. To prepare for the workshop, please:
 
-    1. Download Python notebook.
-    2. Register/try Google Colab https://colab.research.google.com/notebook
-    3. Use notebook in Google Colab (preffered way) or install dependencies and run notebook locally.
+    - Download Python notebook.
+    - Register/try Google Colab https://colab.research.google.com/notebook
+    - Use notebook in Google Colab (preffered way) or install dependencies and run notebook locally.
             
 3. Dataset used: German Traffic Sign Dataset. http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 This dataset has more than 50,000 images of 43 classes.
