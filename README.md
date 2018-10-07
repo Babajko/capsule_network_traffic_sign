@@ -1,1 +1,1 @@
-# capsule_network_traffic_sign
+# Traffic sign recognition with capsule networks.
